@@ -1,0 +1,11 @@
+   .input-field-text {
+     color: rgb(0, 0, 0);
+   }
+
+   .input-field{
+    background-color: rgb(127, 134, 150);
+    margin: 0px;
+    width: 100%;
+    height: 50px;
+    padding: 0px 10px;
+   }

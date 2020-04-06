@@ -1,0 +1,22 @@
+.search-button{
+  background:black;
+  border: none;
+  padding: 10px 20px ;
+  color:white;
+}
+
+.infoButton{
+  text-align: left;
+  color:rgb(231, 18, 18);
+  background-color: rgba(228, 13, 13, 0.336);
+  padding: 10px 20px ;
+}
+
+.InfoText{
+  direction: ltr;
+  padding: 10px;
+  text-align: justify;
+}
+.TitleMovie{
+    text-shadow: 1px 1px red;
+}

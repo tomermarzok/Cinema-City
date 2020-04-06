@@ -1,0 +1,14 @@
+.navbar-default {
+  background-color: rgb(226, 6, 6);
+  top: 0;
+  width: 100%;
+  position: sticky;
+  z-index: 100;
+}
+
+.brand-logo {
+    left: 50%;
+    margin-left: -100px !important;
+    display: block;
+
+}

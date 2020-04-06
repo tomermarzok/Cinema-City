@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+
+}
+.backgroundImage{
+    text-align: center;
+    min-height: 100vh;
+    background-image: url("../image/cinema.JPG") ;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position-y: 20px;
+
+}
+
+.search-bar{
+  margin: 5px 100px;
+  width: 40%;
+  border:black;
+  padding: 10px 10px;
+}
+
+.UpTable{
+  background-color: white;
+  display: block;
+  color:rgb(0, 0, 0);
+  font-size: 25;
+}
+
+.search-form{
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar{
+  width: 40%;
+  padding: 16px;
+}
+.InLine{
+display: inline;
+}
+.ReturnButton{
+  background:rgb(250, 250, 250);
+
+  font-size: 12px;
+  padding: 14px ;
+  color:rgb(15, 15, 15)
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.sorryDiv{
+  font-size: 40px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.EmptySearchContainer{
+background-color: white;
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(238, 0, 0);
+  padding: 10px;
+
+}

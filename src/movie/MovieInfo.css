@@ -1,0 +1,21 @@
+.InfoContainer{
+background-color: white;
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(238, 0, 0);
+  padding: 10px;
+}
+
+.returnButton{
+margin-left: "auto"
+}
+
+.InfoText{
+  direction: ltr;
+  padding: 10px;
+  text-align: justify;
+}
+.TitleMovie{
+  color: red;
+  font-size: 20px;
+}
