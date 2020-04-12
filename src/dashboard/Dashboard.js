@@ -19,7 +19,7 @@ class Dashboard extends Component {
       currentPage: 1,
       currMovie: null
     };
-    this.apiKey = "b58ad972ea35cacd552f03dcb6497021";
+    this.apiKey = "*******";
   }
   handleSubmit = (e) => {
     e.preventDefault();
